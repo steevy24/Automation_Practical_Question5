@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13419" started-at="2022-04-04T01:25:51Z" finished-at="2022-04-04T01:26:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13419" started-at="2022-04-04T01:25:51Z" finished-at="2022-04-04T01:26:04Z">
+      <class name="test.DashBoardPageTest">
+        <test-method status="PASS" signature="validUserShouldBeAbleToCreateCustomer()[pri:0, instance:test.DashBoardPageTest@2ddc8ecb]" name="validUserShouldBeAbleToCreateCustomer" duration-ms="13381" started-at="2022-04-04T01:25:51Z" finished-at="2022-04-04T01:26:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserShouldBeAbleToCreateCustomer -->
+      </class> <!-- test.DashBoardPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
